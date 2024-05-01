@@ -6,3 +6,6 @@ File G2Z_Kirigami_mount v1.stl has been modded so that it works with the "Voron 
 
 https://www.printables.com/model/858786-voron-v0-v01-v02-r1-kirigami-bed-brace-fan
 
+The G2Z idler was widened by 1mm to fit my LDO kit without needing to move the z rail extrusions.
+
+Files were modded in Fusion360
